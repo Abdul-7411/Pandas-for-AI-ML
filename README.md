@@ -2,7 +2,7 @@
 Completed the Pandas for AI course by Sheryians AI School. This repo showcases hands-on practice and core concepts of data analysis using Pandas — a key step in my AI/ML learning journey.
 # 📊 Pandas for AI – Completed Course (Sheryians AI School)
 
-I’ve successfully completed the **Pandas for AI** course offered by [Sheryians AI School](https://www.youtube.com/@SheryiansCodingSchool), which focuses on building strong data manipulation and analysis skills using Python's **Pandas** library — a foundational tool for anyone pursuing AI, Machine Learning, or Data Science.
+I’ve successfully completed the **Pandas for AI** course offered by [Sheryians AI School] which focuses on building strong data manipulation and analysis skills using Python's **Pandas** library — a foundational tool for anyone pursuing AI, Machine Learning, or Data Science.
 
 ---
 
